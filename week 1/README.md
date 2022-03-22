@@ -40,7 +40,7 @@ Links:
 [Lists and indexing](https://ulearn.me/Course/BasicProgramming2/Listy_i_indeksatsiya_ff0b5f9b-eb8c-432d-8bab-4bfa9718469a)
 
 ## Exercises
-For all tasks you should write unit tests. You should upload your programs to your repositories. Please create the same folder structure as here - by weeks. 
+All following tasks should be implemented as console applications. For all tasks you should write unit tests. You should upload your programs to your repositories. Please create the same folder structure as here - by weeks. 
 
 [Fraction](Fraction.md)  
 [Subject area modelling](OOP.md)  
