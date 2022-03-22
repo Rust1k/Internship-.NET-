@@ -5,14 +5,15 @@
 If you have little experience with git please check out the following links:
 #### Git Basics
 Links:  
-[GIT basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+[GIT basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)  
+[.gitignore for VS](https://github.com/github/gitignore/blob/main/VisualStudio.gitignore)
 Exercises for branching:  
-[GIT branchinf exercises](https://learngitbranching.js.org/)
+[GIT branching exercises](https://learngitbranching.js.org/)
 
 #### Git Flow
 Links:  
-[GitHub Flow (habr)](https://habr.com/ru/post/346066/)
-[Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+[GitHub Flow (habr)](https://habr.com/ru/post/346066/)  
+[Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)  
 
 <br/> 
 
@@ -20,7 +21,7 @@ Links:
 [Unit Tests](Unit%20Tests.pdf)  
 Links:  
 [Unit testing for dummies](https://habr.com/ru/post/169381/)  
-[Unit testing (msdn)](https://docs.microsoft.com/en-us/dotnet/core/testing/)
+[Unit testing (msdn)](https://docs.microsoft.com/en-us/dotnet/core/testing/)  
 
 <br/> 
 
