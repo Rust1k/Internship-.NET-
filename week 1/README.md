@@ -42,9 +42,10 @@ Links:
 ## Exercises
 For all tasks you should write unit tests. You should upload your programs to your repositories. Please create the same folder structure as here - by weeks. 
 
-[Subject area modelling](OOP.txt)  
-[Queue](Queue.txt)  
-[Text Editor](Text%20Editor.txt)
+[Fraction](Fraction.md)  
+[Subject area modelling](OOP.md)  
+[Queue](Queue.md)  
+[Text Editor](Text%20Editor.md)
 
 ## Additional links
 1. [Composition or Inheritance: what to choose](https://habr.com/ru/post/325478/)
