@@ -1,4 +1,4 @@
-# Git. Unit Tests. Programming & NET Fundamentals
+should be corrected # Git. Unit Tests. Programming & NET Fundamentals
 
 ## Git
 
@@ -37,7 +37,8 @@ Links:
 [Data integrity](https://ulearn.me/course/basicprogramming/Tselostnost_dannykh_f177f3c4-c0f8-4759-9d41-2cdb7f22ca15)  
 [Interfaces in .NET](https://ulearn.me/course/basicprogramming/Interfeysy_3df89dfb-7f0f-4123-82ac-364c3a426396)  
 [Structs in .NET](https://ulearn.me/course/basicprogramming/2f0b0caa-ce22-4068-93bb-e5c1a0f8a2a4)  
-[Lists and indexing](https://ulearn.me/Course/BasicProgramming2/Listy_i_indeksatsiya_ff0b5f9b-eb8c-432d-8bab-4bfa9718469a)
+[Lists and dictionaries](https://ulearn.me/Course/BasicProgramming2/Listy_i_indeksatsiya_ff0b5f9b-eb8c-432d-8bab-4bfa9718469a)  
+[OOP QnA](OOP%20QnA.md)
 
 ## Exercises
 All following tasks should be implemented as console applications. For all tasks you should write unit tests. You should upload your programs to your repositories. Please create the same folder structure as here - by weeks. 
@@ -53,3 +54,4 @@ All following tasks should be implemented as console applications. For all tasks
 3. [Immutability in C#](https://www.codemag.com/Article/1905041/Immutability-in-C)
 4. [C# 9.0: Records – Work With Immutable Data Classes](https://www.thomasclaudiushuber.com/2020/09/01/c-9-0-records-work-with-immutable-data-classes/)
 5. [Popular misconceptions about C# ](https://habr.com/ru/post/541786/)
+6. [Dictionaries in C# ](https://bool.dev/blog/detail/dictionary-v-csharp)
