@@ -22,7 +22,7 @@ Links:
 Links:  
 [Unit testing for dummies](https://habr.com/ru/post/169381/)  
 [Unit testing (msdn)](https://docs.microsoft.com/en-us/dotnet/core/testing/)  
-
+[xUnit Tests in VS 2022](https://www.c-sharpcorner.com/article/how-to-create-xunit-test-in-visual-studio-2022/)
 <br/> 
 
 ## .NET Fundamentals
@@ -37,8 +37,7 @@ Links:
 [Data integrity](https://ulearn.me/course/basicprogramming/Tselostnost_dannykh_f177f3c4-c0f8-4759-9d41-2cdb7f22ca15)  
 [Interfaces in .NET](https://ulearn.me/course/basicprogramming/Interfeysy_3df89dfb-7f0f-4123-82ac-364c3a426396)  
 [Structs in .NET](https://ulearn.me/course/basicprogramming/2f0b0caa-ce22-4068-93bb-e5c1a0f8a2a4)  
-[Lists and dictionaries](https://ulearn.me/Course/BasicProgramming2/Listy_i_indeksatsiya_ff0b5f9b-eb8c-432d-8bab-4bfa9718469a)  
-[OOP QnA](OOP%20QnA.md)
+[Lists and indexing](https://ulearn.me/Course/BasicProgramming2/Listy_i_indeksatsiya_ff0b5f9b-eb8c-432d-8bab-4bfa9718469a)
 
 ## Exercises
 All following tasks should be implemented as console applications. For all tasks you should write unit tests. You should upload your programs to your repositories. Please create the same folder structure as here - by weeks. 
