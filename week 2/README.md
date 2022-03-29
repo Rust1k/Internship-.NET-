@@ -30,3 +30,11 @@
 ### Exercises
 [Reflection exercise](Reflection.md)  
 
+## Additional Links
+
+1. [Functional programming](https://habr.com/ru/post/479238/)
+2. [Delegates and Lambda expressions in C# .Net - Cheat sheet or briefly about the main thing](https://habr.com/ru/post/329886/)
+3. *[Like LINQ, but fast and without allocations](https://habr.com/ru/post/648529/)
+4. [Dispose pattern](https://habr.com/ru/post/129283/)
+5. [IDisposable: What Your Mother Never Told You About Resource Deallocation](https://www.codeproject.com/Articles/29534/IDisposable-What-Your-Mother-Never-Told-You-About)
+6. *[Unsuccessful article about speeding up reflection](https://habr.com/ru/post/499562/)
