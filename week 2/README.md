@@ -32,9 +32,12 @@
 
 ## Additional Links
 
-1. [Functional programming](https://habr.com/ru/post/479238/)
-2. [Delegates and Lambda expressions in C# .Net - Cheat sheet or briefly about the main thing](https://habr.com/ru/post/329886/)
-3. *[Like LINQ, but fast and without allocations](https://habr.com/ru/post/648529/)
-4. [Dispose pattern](https://habr.com/ru/post/129283/)
+1. [Functional programming (habr)](https://habr.com/ru/post/479238/)
+2. [Delegates and Lambda expressions in C# .Net - Cheat sheet or briefly about the main thing (habr)](https://habr.com/ru/post/329886/)
+3. *[Like LINQ, but fast and without allocations (habr)](https://habr.com/ru/post/648529/)
+4. [Dispose pattern (habr)](https://habr.com/ru/post/129283/)
 5. [IDisposable: What Your Mother Never Told You About Resource Deallocation](https://www.codeproject.com/Articles/29534/IDisposable-What-Your-Mother-Never-Told-You-About)
-6. *[Unsuccessful article about speeding up reflection](https://habr.com/ru/post/499562/)
+6. *[Unsuccessful article about speeding up reflection (habr)](https://habr.com/ru/post/499562/)
+7. [Introduction to .NET Garbage Collection (habr)](https://habr.com/ru/post/590475/)
+8. *[Understanding different GC modes with Concurrency Visualizer](https://devblogs.microsoft.com/premier-developer/understanding-different-gc-modes-with-concurrency-visualizer/)
+9. *[GC course (youtube)](https://www.youtube.com/watch?v=DVnmGW6964o)
