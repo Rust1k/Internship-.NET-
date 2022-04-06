@@ -6,7 +6,8 @@
 
 
 ### Exercises
-[Managed threading task](Managed%20threading%20task.md)
+[Managed threading task](Managed%20threading%20task.md)  
+[Managed threading task 2](Managed%20threading%20task%202.md)
 
 ## Thread Synchronization
 [Thread Synchronization.pdf](Thread%20Synchronization.pdf)  
