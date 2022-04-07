@@ -18,9 +18,12 @@
 [Thread synchronization assignment](Thread%20synchronization%20assignment.md)  
 [https://deadlockempire.github.io/](https://deadlockempire.github.io/)
 
-## Aditional Links
+## Additional Links
 
 1. [Parallelism, Multithreading, Async: Differences and Application Examples (.NET, C#)](https://tproger.ru/articles/parallelizm-mnogopotochnost-asinhronnost-raznica-i-primery-primenenija-net-c/)
 2. [Threading in C# by Joseph Albahari](https://www.albahari.com/threading/threading.pdf)
 3. [Fundamentals of Multithreading in the .NET Framework](https://habr.com/ru/company/nix/blog/260745/)
 4. [.NET: Tools for working with multithreading and asynchrony](https://habr.com/ru/post/452094/)
+5. [* Windows Scheduler? It's very simple](https://habr.com/ru/post/536528/)
+6. [* Multithreading at a low level](https://habr.com/ru/company/jugru/blog/543380/)
+7. [* C++ and CLR memory models](https://habr.com/ru/company/jugru/blog/541362/)
