@@ -1,4 +1,4 @@
-should be corrected # Git. Unit Tests. Programming & NET Fundamentals
+# Git. Unit Tests. Programming & NET Fundamentals
 
 ## Git
 
@@ -11,18 +11,20 @@ Exercises for branching:
 [GIT branching exercises](https://learngitbranching.js.org/)
 
 #### Git Flow
-Links:  
-[GitHub Flow (habr)](https://habr.com/ru/post/346066/)  
-[Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)  
+Additional Links:
+- [GitHub Flow (habr)](https://habr.com/ru/post/346066/)  
+- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)  
 
 <br/> 
 
 ## Unit Test
-[Unit Tests](Unit%20Tests.pdf)  
-Links:  
-[Unit testing for dummies](https://habr.com/ru/post/169381/)  
-[Unit testing (msdn)](https://docs.microsoft.com/en-us/dotnet/core/testing/)  
-[xUnit Tests in VS 2022](https://www.c-sharpcorner.com/article/how-to-create-xunit-test-in-visual-studio-2022/)
+[Unit Tests](Unit%20Tests.pdf) 
+[Tests naming (!!!)](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)
+Additional Links:
+- [Unit testing for dummies](https://habr.com/ru/post/169381/)  
+- [Unit testing (msdn)](https://docs.microsoft.com/en-us/dotnet/core/testing/)  
+- [xUnit Tests in VS 2022](https://www.c-sharpcorner.com/article/how-to-create-xunit-test-in-visual-studio-2022/)
+
 <br/> 
 
 ## .NET Fundamentals
