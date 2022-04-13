@@ -1,4 +1,4 @@
-# Multithreading and Threads synchronization
+# TPL and async / await
 
 ## TPL
 [TPL (Tasks and Data parallelism)](TPL%20(Tasks%20and%20Data%20parallelism).pdf)  
@@ -6,9 +6,12 @@
 
 ### Links
 [Exception Handling in Parallel Task Library](https://www.c-sharpcorner.com/UploadFile/cda5ba/exception-handling-in-parallel-task-library/)
+[Exception handling (Task Parallel Library)](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/exception-handling-task-parallel-library)
+[How to: Cancel a Task and Its Children](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-cancel-a-task-and-its-children?redirectedfrom=MSDN)
 
 ### Exercises
-[Traverse Tree](Traverse%20Tree.md)
+[Traverse Tree](Traverse%20Tree.md)  
+[File downloader](File%20downloader.md)
 
 ## Async / await
 [Async and Await. Asynchronous programming in depth](Async%20and%20Await.%20Asynchronous%20programming%20in%20depth.pdf)  
