@@ -15,8 +15,8 @@
 
 
 ### Exercises
+[https://deadlockempire.github.io/](https://deadlockempire.github.io/)  
 [Thread synchronization assignment](Thread%20synchronization%20assignment.md)  
-[https://deadlockempire.github.io/](https://deadlockempire.github.io/)
 
 ## Additional Links
 
