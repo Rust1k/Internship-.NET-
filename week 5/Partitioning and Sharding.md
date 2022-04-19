@@ -1,0 +1,1 @@
+Shard a local database. Follow [this guide](https://docs.microsoft.com/en-US/sql/relational-databases/partitions/create-partitioned-tables-and-indexes) to create a sharded table on your local machine using filegroups. Yes, it says “partitioning” but what it actually means is “sharding”.

@@ -1,0 +1,4 @@
+Create a non-clustered index for a table. Feel free to use one of the tables from the [AdventureWorks](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms) database or create your own. Bonus points for measuring the performance difference between a usual table and an indexed one. Create a clustered index on a table other than the primary key.
+Hint: since a table can contain only one such index, you’ll have to ditch the primary key.
+
+A preferable way for showing that you've created an index is to attach a SQL file with the all necessary commands.

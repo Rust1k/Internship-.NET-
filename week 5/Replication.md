@@ -1,0 +1,1 @@
+Try your hand at [snapshot replication](https://docs.microsoft.com/en-us/sql/relational-databases/replication/create-and-apply-the-initial-snapshot). Follow this guide to create and apply the snapshot.
