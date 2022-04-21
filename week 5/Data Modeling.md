@@ -1,0 +1,1 @@
+For the assignment from first week on designing classes for the Training Center domain area, design a database with all relationships and constraints. The results of this task should be an SQL script with 'CREATE TABLE' and INSERT test data commands.
