@@ -27,11 +27,14 @@
 [ACID. Isolation Levels QnA](ACID.%20Isolation_Levels%20QnA.pdf)
 
 ### Exercises
-[ACID. Isolation Levels Demonstration exercise](ACID._Isolation%20Levels.%20Demonstration%20exercise.pdf)
+[ACID. Isolation Levels Demonstration exercise](ACID._Isolation%20Levels.%20Demonstration%20exercise.pdf)  
+[Transactions](Transactions.md)  
 
 ### Links
 [Transactions part 1](https://habr.com/ru/post/557536/)
 [Transactions part 2](https://habr.com/ru/post/558248/)
+[ACID in plain language](https://habr.com/ru/post/555920/)
+[Transaction Isolation Levels](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/transaction-isolation-levels?view=sql-server-ver15)
 
 
 ## Additional links
