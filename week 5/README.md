@@ -37,6 +37,14 @@
 [ACID in plain language](https://habr.com/ru/post/555920/)  
 [Transaction Isolation Levels](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/transaction-isolation-levels?view=sql-server-ver15)  
  
+## NoSQL
+
+[MoSQL](NoSql.pdf)  
+[MoSQL QnA](NoSql%20QnA.pdf)
+
+### Links
+[SQL vs NoSQL](https://habr.com/ru/company/ruvds/blog/324936/)
+[NoSQL - briefly about the main things](https://habr.com/ru/company/oleg-bunin/blog/319052/)
 
 ## Additional links
 [Introduction to Multivariate Analysis](https://habr.com/ru/post/126810/)  
