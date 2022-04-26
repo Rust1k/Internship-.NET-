@@ -15,8 +15,11 @@
 
 
 ### Exercises
-[https://deadlockempire.github.io/](https://deadlockempire.github.io/)  
 [Thread synchronization assignment](Thread%20synchronization%20assignment.md)  
+[https://deadlockempire.github.io/](https://deadlockempire.github.io/)
+
+### Links
+[ReaderWriterLock](https://docs.microsoft.com/en-us/dotnet/api/system.threading.readerwriterlock)
 
 ## Additional Links
 
@@ -27,3 +30,5 @@
 5. [* Windows Scheduler? It's very simple](https://habr.com/ru/post/536528/)
 6. [* Multithreading at a low level](https://habr.com/ru/company/jugru/blog/543380/)
 7. [* C++ and CLR memory models](https://habr.com/ru/company/jugru/blog/541362/)
+8. [Implementing the Singleton Pattern in C#](https://csharpindepth.com/articles/singleton)
+9. [Thread.MemoryBarrier and lock difference for a simple property](https://stackoverflow.com/questions/22457501/thread-memorybarrier-and-lock-difference-for-a-simple-property/22458009#22458009)
