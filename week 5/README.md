@@ -2,16 +2,16 @@
 
 ## Relational Databases
 
-[Intro To Databases](Databases.pdf)
-[Indexes, Replication, Sharding](Database%20stuff.pdf)
+[Intro To Databases](Databases.pdf)  
+[Indexes, Replication, Sharding](Database%20stuff.pdf)  
 [Indexes, Replication, Sharding QnA](Database%20QnA.pdf)
 
 ### Links
-[SQL Tutorial](https://www.w3schools.com/sql/default.asp)
-[SQL memo/cheat sheet](https://habr.com/ru/post/564390/)
-[Data Integrity](https://www.c-sharpcorner.com/blogs/data-integrityin-sql-server)
-[Normalization of relations. Six normal forms](https://habr.com/ru/post/254773/)
-[14 SQL Server index questions you were too embarrassed to ask](https://habr.com/ru/post/247373/)
+[SQL Tutorial](https://www.w3schools.com/sql/default.asp)  
+[SQL memo/cheat sheet](https://habr.com/ru/post/564390/)  
+[Data Integrity](https://www.c-sharpcorner.com/blogs/data-integrityin-sql-server)  
+[Normalization of relations. Six normal forms](https://habr.com/ru/post/254773/)  
+[14 SQL Server index questions you were too embarrassed to ask](https://habr.com/ru/post/247373/)  
 [How not to index](https://habr.com/ru/post/648731/)
 
 ### Exercises  
@@ -43,7 +43,7 @@
 [MoSQL QnA](NoSql%20QnA.pdf)
 
 ### Links
-[SQL vs NoSQL](https://habr.com/ru/company/ruvds/blog/324936/)
+[SQL vs NoSQL](https://habr.com/ru/company/ruvds/blog/324936/)  
 [NoSQL - briefly about the main things](https://habr.com/ru/company/oleg-bunin/blog/319052/)
 
 ## Additional links

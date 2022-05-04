@@ -1,0 +1,1 @@
+For the assignment from first week on designing classes for the Training Center domain area add ef core support. Organize data storage in MS Sql Server.
