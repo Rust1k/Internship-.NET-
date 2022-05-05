@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripServiceKata", "TripServiceKata\TripServiceKata.csproj", "{3840FCAC-BFD4-45FB-9591-6B5D74F6F26D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripServiceKata.Tests", "TripServiceKata.Tests\TripServiceKata.Tests.csproj", "{463E9CC0-240F-49B4-88F2-3FA7DD002772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3840FCAC-BFD4-45FB-9591-6B5D74F6F26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3840FCAC-BFD4-45FB-9591-6B5D74F6F26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3840FCAC-BFD4-45FB-9591-6B5D74F6F26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3840FCAC-BFD4-45FB-9591-6B5D74F6F26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463E9CC0-240F-49B4-88F2-3FA7DD002772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463E9CC0-240F-49B4-88F2-3FA7DD002772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463E9CC0-240F-49B4-88F2-3FA7DD002772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463E9CC0-240F-49B4-88F2-3FA7DD002772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {006F9274-E432-4D30-AF37-FCA02F4E3C47}
+	EndGlobalSection
+EndGlobal
