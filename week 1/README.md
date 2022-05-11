@@ -2,16 +2,15 @@
 
 ## Git
 
-If you have little experience with git please check out the following links:
 #### Git Basics
-Links:  
-[GIT basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)  
-[.gitignore for VS](https://github.com/github/gitignore/blob/main/VisualStudio.gitignore)  
-Exercises for branching:  
-[GIT branching exercises](https://learngitbranching.js.org/)  
+If you have little experience with git and don't know how to work with .gitignore and branches please check out the following links:  
+
+- [GIT basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)  
+- [.gitignore for VS](https://github.com/github/gitignore/blob/main/VisualStudio.gitignore)  
+- [GIT branching exercises](https://learngitbranching.js.org/)  
 
 #### Git Flow
-Additional Links:
+If you have not experience with git flow please check out the following links:
 - [GitLab Flow (habr)](https://habr.com/ru/company/softmart/blog/316686/)  
 - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)  
 
@@ -19,7 +18,7 @@ Additional Links:
 
 ## Unit Test
 - [Unit Tests](Unit%20Tests.pdf)  
-- [Tests naming (!!!)](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)  
+- [Tests naming (important!!!)](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)  
 - [Unit testing for dummies](https://habr.com/ru/post/169381/)  
 - [Unit testing (msdn)](https://docs.microsoft.com/en-us/dotnet/core/testing/)  
 - [xUnit Tests in VS 2022](https://www.c-sharpcorner.com/article/how-to-create-xunit-test-in-visual-studio-2022/)  
@@ -46,14 +45,15 @@ Additional Links:
 ## Exercises
 All following tasks should be implemented as console applications. For all tasks you should write unit tests using moq if you need. You should upload your programs to your repositories. Please create the same folder structure as here - by weeks. 
 
-[Fraction](Fraction.md)  
-[Subject area modelling](OOP.md)  
-[Queue](Queue.md)  
-[Text Editor](Text%20Editor.md)
+1. [Fraction](Fraction.md)  
+2. [Subject area modelling](OOP.md)  
+3. [Queue](Queue.md)  
+4. [Text Editor](Text%20Editor.md)
 
 ## Additional links
-1. [Encapsulation for real samurai, or the nuances associated with the internal keyword in C#](https://habr.com/ru/post/445804/)
-2. [Immutability in C#](https://www.codemag.com/Article/1905041/Immutability-in-C)
-3. [C# 9.0: Records – Work With Immutable Data Classes](https://www.thomasclaudiushuber.com/2020/09/01/c-9-0-records-work-with-immutable-data-classes/)
-4. [Popular misconceptions about C# ](https://habr.com/ru/post/541786/)
-5. [Dictionaries in C# ](https://bool.dev/blog/detail/dictionary-v-csharp)
+Please check them out if you have some spare time.  
+- [Encapsulation for real samurai, or the nuances associated with the internal keyword in C#](https://habr.com/ru/post/445804/)
+- [Immutability in C#](https://www.codemag.com/Article/1905041/Immutability-in-C)
+- [C# 9.0: Records – Work With Immutable Data Classes](https://www.thomasclaudiushuber.com/2020/09/01/c-9-0-records-work-with-immutable-data-classes/)
+- [Popular misconceptions about C# ](https://habr.com/ru/post/541786/)
+- [Dictionaries in C# ](https://bool.dev/blog/detail/dictionary-v-csharp)
