@@ -6,24 +6,25 @@ If you have little experience with git please check out the following links:
 #### Git Basics
 Links:  
 [GIT basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)  
-[.gitignore for VS](https://github.com/github/gitignore/blob/main/VisualStudio.gitignore)
+[.gitignore for VS](https://github.com/github/gitignore/blob/main/VisualStudio.gitignore)  
 Exercises for branching:  
-[GIT branching exercises](https://learngitbranching.js.org/)
+[GIT branching exercises](https://learngitbranching.js.org/)  
 
 #### Git Flow
 Additional Links:
-- [GitHub Flow (habr)](https://habr.com/ru/post/346066/)  
+- [GitLab Flow (habr)](https://habr.com/ru/company/softmart/blog/316686/)  
 - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)  
 
 <br/> 
 
 ## Unit Test
-[Unit Tests](Unit%20Tests.pdf) 
-[Tests naming (!!!)](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)
-Additional Links:
+- [Unit Tests](Unit%20Tests.pdf)  
+- [Tests naming (!!!)](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)  
 - [Unit testing for dummies](https://habr.com/ru/post/169381/)  
 - [Unit testing (msdn)](https://docs.microsoft.com/en-us/dotnet/core/testing/)  
-- [xUnit Tests in VS 2022](https://www.c-sharpcorner.com/article/how-to-create-xunit-test-in-visual-studio-2022/)
+- [xUnit Tests in VS 2022](https://www.c-sharpcorner.com/article/how-to-create-xunit-test-in-visual-studio-2022/)  
+- [How to do Unit Testing using XUnit and Moq in C#](https://towardsdev.com/how-to-do-unit-testing-using-xunit-and-moq-in-c-b52d520d7580)
+- [Moq quickstart](https://github.com/Moq/moq4/wiki/Quickstart#async-methods)
 
 <br/> 
 
@@ -40,9 +41,10 @@ Additional Links:
 [Interfaces in .NET](https://ulearn.me/course/basicprogramming/Interfeysy_3df89dfb-7f0f-4123-82ac-364c3a426396)  
 [Structs in .NET](https://ulearn.me/course/basicprogramming/2f0b0caa-ce22-4068-93bb-e5c1a0f8a2a4)  
 [Lists and indexing](https://ulearn.me/Course/BasicProgramming2/Listy_i_indeksatsiya_ff0b5f9b-eb8c-432d-8bab-4bfa9718469a)
+[Composition or Inheritance: what to choose](https://habr.com/ru/post/325478/)
 
 ## Exercises
-All following tasks should be implemented as console applications. For all tasks you should write unit tests. You should upload your programs to your repositories. Please create the same folder structure as here - by weeks. 
+All following tasks should be implemented as console applications. For all tasks you should write unit tests using moq if you need. You should upload your programs to your repositories. Please create the same folder structure as here - by weeks. 
 
 [Fraction](Fraction.md)  
 [Subject area modelling](OOP.md)  
@@ -50,9 +52,8 @@ All following tasks should be implemented as console applications. For all tasks
 [Text Editor](Text%20Editor.md)
 
 ## Additional links
-1. [Composition or Inheritance: what to choose](https://habr.com/ru/post/325478/)
-2. [Encapsulation for real samurai, or the nuances associated with the internal keyword in C#](https://habr.com/ru/post/445804/)
-3. [Immutability in C#](https://www.codemag.com/Article/1905041/Immutability-in-C)
-4. [C# 9.0: Records – Work With Immutable Data Classes](https://www.thomasclaudiushuber.com/2020/09/01/c-9-0-records-work-with-immutable-data-classes/)
-5. [Popular misconceptions about C# ](https://habr.com/ru/post/541786/)
-6. [Dictionaries in C# ](https://bool.dev/blog/detail/dictionary-v-csharp)
+1. [Encapsulation for real samurai, or the nuances associated with the internal keyword in C#](https://habr.com/ru/post/445804/)
+2. [Immutability in C#](https://www.codemag.com/Article/1905041/Immutability-in-C)
+3. [C# 9.0: Records – Work With Immutable Data Classes](https://www.thomasclaudiushuber.com/2020/09/01/c-9-0-records-work-with-immutable-data-classes/)
+4. [Popular misconceptions about C# ](https://habr.com/ru/post/541786/)
+5. [Dictionaries in C# ](https://bool.dev/blog/detail/dictionary-v-csharp)
